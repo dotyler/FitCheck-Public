@@ -67,15 +67,15 @@ Future Work
 Visual search and recommendation systems can significantly change the way we browse for clothes online. In addition to still images, we hope to support visual searching of live images/videos in future work. Currently, our e-commerce recommendation layer only pulls from six e-commerce sites to find similar articles of clothing (limited by the e-commerce API). For future work, we want to expand on the number of sites we recommend from. Additionally, we want to add another component to the e-commerce recommendation layer, where object search technology would be used to return projects with visually similar objects in addition to image searches based on the derived annotations. We hope to increase the accuracy of the results that FitCheck returns by having them come from multiple sources.
 Project Files
 
-[Project Charter (link)](https://www.overleaf.com/read/vzfvnfwbqwrb)
+[Project Charter (link)](https://)
 
-[System Requirements Specification (link)](https://www.overleaf.com/read/hyjrtjtmqpvz)
+[System Requirements Specification (link)](https://)
 
-[Architectural Design Specification (link)](https://www.overleaf.com/read/jvdqgwzdtzrv)
+[Architectural Design Specification (link)](https://)
 
-[Detailed Design Specification (link)](https://www.overleaf.com/read/jzzmhvjngbgm)
+[Detailed Design Specification (link)](https://)
 
-[Poster ([link])](https://drive.google.com/file/d/1qOSOcapgfPDDn1w0gSiPN9zXY7accxwm/view?usp=sharing)
+[Poster (link)](https://)
 ## References
 
     “Building a Visual Search Algorithm.” Ideo.Com, www.ideo.com/datascope/building-a-visual-search-algorithm. Accessed 5 May 2022.
