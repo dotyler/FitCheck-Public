@@ -8,8 +8,9 @@ SlackOverflow
 
 ## Timeline
 
-### Fall 2021 – Spring 2022
-Students:
+Fall 2021 – Spring 2022
+
+## Students:
 Tyler Do, B.S. CpE
     
 An Nguyen, B.S. CS
