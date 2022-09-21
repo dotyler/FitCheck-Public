@@ -10,10 +10,11 @@ SlackOverflow
 
 ### Fall 2021 – Spring 2022
 Students:
-    Lawrence Wong
-    Brian Truong
-    An Nguyen
     Tyler Do
+    An Nguyen
+    Brian Truong
+    Lawrence Wong
+    
     
 ## Poster
 
