@@ -58,7 +58,7 @@ FitCheck’s overall architecture is separated into three logical components: im
 
 ## Results
 
-![Demo Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=y52CnqCCy-Q)
+[![Demo Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=y52CnqCCy-Q)
 
 As a result, FitCheck is able to upload a user’s image into a cloud-based storage server to parse, annotate, and identify components from the image to recommend clothing items back to the users. Our team’s was able to complete our requirements and object to develop an application to reverse image search in real time and deploy a functioning demo.
 Future Work
