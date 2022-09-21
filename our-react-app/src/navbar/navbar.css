@@ -1,0 +1,118 @@
+
+.Background{
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    text-align: center;
+    height: 50%;
+}
+.logoandsearch{
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.logobrand{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    margin-right: 10px;
+}
+.icons{
+    background-color: #ffffff;
+    display: flex;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    margin-left: -100px;
+}
+.home{
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 5%;
+    /* box-shadow: 1px 2px 2px 1px #383838; */
+}
+.home:hover{
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+  }
+.login{
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 5%;;
+}
+.login:hover{
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+  }
+.explorer{
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 5%;
+}
+.explorer:hover{
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+  }
+.upload{
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 5%;
+}
+.upload:hover{
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+  }
+
+.profile{
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 5%;
+}
+.profile:hover{
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+  }
+.logout{
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 5%;
+}
+.logout:hover{
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+}
+.bar{
+    display: flex;
+    margin: auto;
+    width:200px;
+    border-radius:10px;
+  }
+  .bar:hover{
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+  }
+  .bar:focus-within{
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+    outline:none;
+  }
+  .searchbar{
+    box-shadow: 1px 1px 8px 1px #bebcbc;
+    display: flex;
+    height:45px;
+    border:none;
+    width:50%;
+    font-size:16px;
+    outline: none;
+    margin-right: 10%;
+    margin-left: 3%;
+    border-radius: 5px;
+  }

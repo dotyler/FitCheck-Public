@@ -1,0 +1,66 @@
+.profilepage{
+    display: flex;
+    flex-direction: column;
+    background-color: #fcfcfc;
+    justify-content: center;
+}
+.pfp{
+    border-radius: 50%;
+    width: 10%;
+    height: 10%;
+}
+.pfp:hover{
+    box-shadow: 1px 1px 8px 1px #585858;
+  }
+.headerimg{
+    width: 90%;
+}
+.headerimg:hover{
+    box-shadow: 3px 3px 12px 3px #585858;
+  }
+.profilepic{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: -90px;
+}
+.username{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: -10px;
+}
+.handle{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: -30px;
+    font-size: auto;
+}
+.bio{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: -20px;
+}
+.horizontalline{
+    color: black;
+    overflow: visible;
+    border-color: black;
+    width: 85%;
+    opacity: 0.3;
+} 
+.usercontent {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.headerimage{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}

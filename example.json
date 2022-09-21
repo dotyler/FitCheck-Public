@@ -1,0 +1,1150 @@
+{'searchTerm': ' women jeans denim light blue', 'categoryName': None, 'itemCount': 669, 'redirectUrl': '', 'products': [
+        {'id': 24210301, 'name': 'Cotton:On stretch jeans in light blue', 'price': {'current': {'value': 58.0, 'text': '$58.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': 
+    ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'Jetty blue', 'colourWayId': 60547969, 'brandName': 'Cotton:On', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 2013456, 'productType': 'Product', 'url': 'cottonon/cottonon-stretch-jeans-in-light-blue/prd/24210301?clr=jetty-blue&colourWayId=60547969', 'imageUrl': 'images.asos-media.com/products/cottonon-stretch-jeans-in-light-blue/24210301-1-jettyblue', 'videoUrl': None, 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 201212432, 'name': 'Dr Denim Tall Echo sky high wide leg jeans in bleach wash', 'price': {'current': {'value': 85.0, 'text': '$85.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'Superlight indigo', 'colourWayId': 201212438, 'brandName': 'Dr Denim Tall', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 110594066, 'productType': 'Product', 'url': 'dr-denim-tall/dr-denim-tall-echo-sky-high-wide-leg-jeans-in-bleach-wash/prd/201212432?clr=superlight-indigo&colourWayId=201212438', 'imageUrl': 'images.asos-media.com/products/dr-denim-tall-echo-sky-high-wide-leg-jeans-in-bleach-wash/201212432-1-superlightindigo', 'videoUrl': 'video.asos-media.com/products/dr-denim-tall-echo-sky-high-wide-leg-jeans-in-bleach-wash/201212432-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 201354142, 'name': 'Lee Plus retro skinny jeans in light luna blue', 'price': {'current': {'value': 103.0, 'text': '$103.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': 151.0, 'text': '$151.00'
+                }, 'isMarkedDown': False, 'isOutletPrice': True, 'currency': 'USD'
+            }, 'colour': 'Light Luna', 'colourWayId': 201354143, 'brandName': 'Lee Plus', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 112708502, 'productType': 'Product', 'url': 'lee-plus/lee-plus-retro-skinny-jeans-in-light-luna-blue/prd/201354142?clr=light-luna&colourWayId=201354143', 'imageUrl': 'images.asos-media.com/products/lee-plus-retro-skinny-jeans-in-light-luna-blue/201354142-1-lightluna', 'videoUrl': 'video.asos-media.com/products/lee-plus-retro-skinny-jeans-in-light-luna-blue/201354142-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 202507933, 'name': 'Topshop oversized recycled cotton blend mom jeans with rip in bleach', 'price': {'current': {'value': 70.0, 'text': '$70.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'Bleach', 'colourWayId': 202507934, 'brandName': 'Topshop', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 117364236, 'productType': 'Product', 'url': 'topshop/topshop-oversized-recycled-cotton-blend-mom-jeans-with-rip-in-bleach/prd/202507933?clr=bleach&colourWayId=202507934', 'imageUrl': 'images.asos-media.com/products/topshop-oversized-recycled-cotton-blend-mom-jeans-with-rip-in-bleach/202507933-1-bleach', 'videoUrl': 'video.asos-media.com/products/topshop-oversized-recycled-cotton-blend-mom-jeans-with-rip-in-bleach/202507933-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 201811130, 'name': 'DTT Grace balloon leg jeans in light blue', 'price': {'current': {'value': 37.0, 'text': 
+    '$37.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': 57.75, 'text': '$57.75'
+                }, 'isMarkedDown': False, 'isOutletPrice': True, 'currency': 'USD'
+            }, 'colour': 'Light wash blue', 'colourWayId': 201811131, 'brandName': "Don't Think Twice", 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 114954615, 'productType': 'Product', 'url': 'dont-think-twice/dtt-grace-balloon-leg-jeans-in-light-blue/prd/201811130?clr=light-wash-blue&colourWayId=201811131', 'imageUrl': 'images.asos-media.com/products/dtt-grace-balloon-leg-jeans-in-light-blue/201811130-1-lightwashblue', 'videoUrl': 'video.asos-media.com/products/dtt-grace-balloon-leg-jeans-in-light-blue/201811130-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 201813759, 'name': 'DTT Petite Emma super high rise mom jeans in light blue wash', 'price': {'current': {'value': 30.0, 'text': '$30.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': 50.0, 'text': '$50.00'
+                }, 'isMarkedDown': False, 'isOutletPrice': True, 'currency': 'USD'
+            }, 'colour': 'Light wash blue', 'colourWayId': 201813816, 'brandName': "Don't Think Twice Petite", 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 114956892, 'productType': 'Product', 'url': 'dont-think-twice-petite/dtt-petite-emma-super-high-rise-mom-jeans-in-light-blue-wash/prd/201813759?clr=light-wash-blue&colourWayId=201813816', 'imageUrl': 'images.asos-media.com/products/dtt-petite-emma-super-high-rise-mom-jeans-in-light-blue-wash/201813759-1-lightwashblue', 'videoUrl': 'video.asos-media.com/products/dtt-petite-emma-super-high-rise-mom-jeans-in-light-blue-wash/201813759-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 202927876, 'name': 'Stradivarius cropped jean in light wash', 'price': {'current': {'value': 45.57, 'text': '$45.57'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'BLUE', 'colourWayId': 202927879, 'brandName': 'Stradivarius', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 118979210, 'productType': 'Product', 'url': 'stradivarius/stradivarius-cropped-jean-in-light-wash/prd/202927876?clr=blue&colourWayId=202927879', 'imageUrl': 'images.asos-media.com/products/stradivarius-cropped-jean-in-light-wash/202927876-1-blue', 'videoUrl': None, 'isSellingFast': True, 'sponsoredCampaignId': None
+        },
+        {'id': 200873035, 'name': 'Pull&Bear straight leg dad jean in light blue', 'price': {'current': {'value': 48.0, 'text': '$48.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'Blues', 'colourWayId': 200873036, 'brandName': 'Pull&Bear', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 106943466, 'productType': 'Product', 'url': 'pullbear/pullbear-straight-leg-dad-jean-in-light-blue/prd/200873035?clr=blues&colourWayId=200873036', 'imageUrl': 'images.asos-media.com/products/pullbear-straight-leg-dad-jean-in-light-blue/200873035-1-blue', 'videoUrl': 'video.asos-media.com/products/pullbear-straight-leg-dad-jean-in-light-blue/200873035-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 202645231, 'name': 'Stradivarius cropped organic cotton slim mom jeans with stretch and rip in light blue', 'price': {'current': {'value': 19.0, 'text': '$19.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'BLUE', 'colourWayId': 202645232, 'brandName': 'Stradivarius', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 117725549, 'productType': 'Product', 'url': 'stradivarius/stradivarius-cropped-organic-cotton-slim-mom-jeans-with-stretch-and-rip-in-light-blue/prd/202645231?clr=blue&colourWayId=202645232', 'imageUrl': 'images.asos-media.com/products/stradivarius-cropped-organic-cotton-slim-mom-jeans-with-stretch-and-rip-in-light-blue/202645231-1-blue', 'videoUrl': None, 'isSellingFast': True, 'sponsoredCampaignId': None
+        },
+        {'id': 202927944, 'name': 'Stradivarius 90s dad jean in bleach wash', 'price': {'current': {'value': 45.57, 'text': '$45.57'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'BLUE', 'colourWayId': 202927946, 'brandName': 'Stradivarius', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 118979187, 'productType': 'Product', 'url': 'stradivarius/stradivarius-90s-dad-jean-in-bleach-wash/prd/202927944?clr=blue&colourWayId=202927946', 'imageUrl': 'images.asos-media.com/products/stradivarius-90s-dad-jean-in-bleach-wash/202927944-1-blue', 'videoUrl': None, 'isSellingFast': True, 'sponsoredCampaignId': None
+        },
+        {'id': 202055184, 'name': 'Bershka Petite mom jeans with rips in light wash blue', 'price': {'current': {'value': 45.9, 'text': '$45.90'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'blue', 'colourWayId': 202055186, 'brandName': 'Bershka', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 115435667, 'productType': 'Product', 'url': 'bershka/bershka-petite-mom-jeans-with-rips-in-light-wash-blue/prd/202055184?clr=blue&colourWayId=202055186', 'imageUrl': 'images.asos-media.com/products/bershka-petite-mom-jeans-with-rips-in-light-wash-blue/202055184-1-blue', 'videoUrl': None, 'isSellingFast': True, 'sponsoredCampaignId': None
+        },
+        {'id': 200974952, 'name': 'Parisian front slit flared jeans in light blue', 'price': {'current': {'value': 32.0, 'text': '$32.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': 40.0, 'text': '$40.00'
+                }, 'isMarkedDown': False, 'isOutletPrice': True, 'currency': 'USD'
+            }, 'colour': 'LIGHT BLUE', 'colourWayId': 200974953, 'brandName': 'Parisian', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 108438745, 'productType': 'Product', 'url': 'parisian/parisian-front-slit-flared-jeans-in-light-blue/prd/200974952?clr=light-blue&colourWayId=200974953', 'imageUrl': 'images.asos-media.com/products/parisian-front-slit-flared-jeans-in-light-blue/200974952-1-lightblue', 'videoUrl': 'video.asos-media.com/products/parisian-front-slit-flared-jeans-in-light-blue/200974952-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 200975034, 'name': 'Parisian boyfriend jeans with tie cuff in light blue', 'price': {'current': {'value': 32.0, 'text': '$32.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': 40.0, 'text': '$40.00'
+                }, 'isMarkedDown': False, 'isOutletPrice': True, 'currency': 'USD'
+            }, 'colour': 'LIGHT BLUE', 'colourWayId': 200975035, 'brandName': 'Parisian', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 108438751, 'productType': 'Product', 'url': 'parisian/parisian-boyfriend-jeans-with-tie-cuff-in-light-blue/prd/200975034?clr=light-blue&colourWayId=200975035', 'imageUrl': 'images.asos-media.com/products/parisian-boyfriend-jeans-with-tie-cuff-in-light-blue/200975034-1-lightblue', 'videoUrl': 'video.asos-media.com/products/parisian-boyfriend-jeans-with-tie-cuff-in-light-blue/200975034-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 200974986, 'name': 'Parisian side slit flared jeans in light blue', 'price': {'current': {'value': 32.0, 'text': '$32.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': 40.0, 'text': '$40.00'
+                }, 'isMarkedDown': False, 'isOutletPrice': True, 'currency': 'USD'
+            }, 'colour': 'LIGHT BLUE', 'colourWayId': 200974987, 'brandName': 'Parisian', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 108438748, 'productType': 'Product', 'url': 'parisian/parisian-side-slit-flared-jeans-in-light-blue/prd/200974986?clr=light-blue&colourWayId=200974987', 'imageUrl': 'images.asos-media.com/products/parisian-side-slit-flared-jeans-in-light-blue/200974986-1-lightblue', 'videoUrl': 'video.asos-media.com/products/parisian-side-slit-flared-jeans-in-light-blue/200974986-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 202032201, 'name': 'Fae high rise mom jeans in light stone wash', 'price': {'current': {'value': 50.0, 'text': '$50.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': 75.0, 'text': '$75.00'
+                }, 'isMarkedDown': False, 'isOutletPrice': True, 'currency': 'USD'
+            }, 'colour': 'Light stone wash', 'colourWayId': 202032217, 'brandName': 'FAE', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 115434729, 'productType': 'Product', 'url': 'fae/fae-high-rise-mom-jeans-in-light-stone-wash/prd/202032201?clr=light-stone-wash&colourWayId=202032217', 'imageUrl': 'images.asos-media.com/products/fae-high-rise-mom-jeans-in-light-stone-wash/202032201-1-lightstonewash', 'videoUrl': 'video.asos-media.com/products/fae-high-rise-mom-jeans-in-light-stone-wash/202032201-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 202315978, 'name': 'Pull&Bear Petite high waisted ultra skinny basic jean in light blue', 'price': {'current': {'value': 19.9, 'text': '$19.90'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 
+    'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'LIGHT BLUE', 'colourWayId': 202315979, 'brandName': 'Pull&Bear', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 116375204, 'productType': 'Product', 'url': 'pullbear/pullbear-petite-high-waisted-ultra-skinny-basic-jean-in-light-blue/prd/202315978?clr=light-blue&colourWayId=202315979', 'imageUrl': 'images.asos-media.com/products/pullbear-petite-high-waisted-ultra-skinny-basic-jean-in-light-blue/202315978-1-lightblue', 'videoUrl': None, 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 202457057, 'name': 'River Island Maternity Molly overbump skinny jean in light blue', 'price': {'current': {'value': 80.0, 'text': '$80.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'Light denim', 'colourWayId': 202457058, 'brandName': 'River Island Maternity', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 116845598, 'productType': 'Product', 'url': 'river-island-maternity/river-island-maternity-molly-overbump-skinny-jean-in-light-blue/prd/202457057?clr=light-denim&colourWayId=202457058', 'imageUrl': 'images.asos-media.com/products/river-island-maternity-molly-overbump-skinny-jean-in-light-blue/202457057-1-lightdenim', 'videoUrl': 'video.asos-media.com/products/river-island-maternity-molly-overbump-skinny-jean-in-light-blue/202457057-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 24505810, 'name': 'COLLUSION x015 anti fit jeans in ecru', 'price': {'current': {'value': 34.5, 'text': '$34.50'
+                }, 'previous': {'value': 42.9, 'text': '$42.90'
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': True, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'ECRU', 'colourWayId': 60588680, 'brandName': 'Collusion', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 2042500, 'productType': 'Product', 'url': 'collusion/collusion-x015-anti-fit-jeans-in-ecru/prd/24505810?clr=ecru&colourWayId=60588680', 'imageUrl': 'images.asos-media.com/products/collusion-x015-anti-fit-jeans-in-ecru/24505810-1-ecru', 'videoUrl': None, 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 202566559, 'name': 'Monki Zami organic cotton straight leg jeans in bleach wash', 'price': {'current': {'value': 66.0, 'text': '$66.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'Bleach blue', 'colourWayId': 202566560, 'brandName': 'Monki', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 117589310, 'productType': 'Product', 'url': 'monki/monki-zami-organic-cotton-straight-leg-jeans-in-bleach-wash/prd/202566559?clr=bleach-blue&colourWayId=202566560', 'imageUrl': 'images.asos-media.com/products/monki-zami-organic-cotton-straight-leg-jeans-in-bleach-wash/202566559-1-bleachblue', 'videoUrl': 'video.asos-media.com/products/monki-zami-organic-cotton-straight-leg-jeans-in-bleach-wash/202566559-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 201908881, 'name': 'Saint Genies front spilt jeans in blue', 'price': {'current': {'value': 58.0, 'text': '$58.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'MID BLUE', 'colourWayId': 201908888, 'brandName': 'Saint Genies', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 115099183, 'productType': 'Product', 'url': 'saint-genies/saint-genies-front-spilt-jeans-in-blue/prd/201908881?clr=mid-blue&colourWayId=201908888', 'imageUrl': 'images.asos-media.com/products/saint-genies-front-spilt-jeans-in-blue/201908881-1-midblue', 'videoUrl': 'video.asos-media.com/products/saint-genies-front-spilt-jeans-in-blue/201908881-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 201569384, 'name': 'Miss Selfridge ditsy floral print mom jean in mid wash blue', 'price': {'current': {'value': 56.0, 'text': '$56.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'Midwash Blue', 'colourWayId': 201569385, 'brandName': 'Miss Selfridge', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 113848610, 'productType': 'Product', 'url': 'miss-selfridge/miss-selfridge-ditsy-floral-print-mom-jean-in-mid-wash-blue/prd/201569384?clr=midwash-blue&colourWayId=201569385', 'imageUrl': 'images.asos-media.com/products/miss-selfridge-ditsy-floral-print-mom-jean-in-mid-wash-blue/201569384-1-midwashblue', 'videoUrl': 'video.asos-media.com/products/miss-selfridge-ditsy-floral-print-mom-jean-in-mid-wash-blue/201569384-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 201613248, 'name': 'Topshop runway overdye jeans in blue', 'price': {'current': {'value': 74.0, 'text': '$74.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'Blue', 'colourWayId': 201613249, 'brandName': 'Topshop', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 114128458, 'productType': 'Product', 'url': 'topshop/topshop-runway-overdye-jeans-in-blue/prd/201613248?clr=blue&colourWayId=201613249', 'imageUrl': 'images.asos-media.com/products/topshop-runway-overdye-jeans-in-blue/201613248-1-blue', 'videoUrl': 'video.asos-media.com/products/topshop-runway-overdye-jeans-in-blue/201613248-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 201694561, 'name': 'Topshop Petite Premium Mom organic cotton blend jean in bleach', 'price': {'current': {'value': 76.0, 'text': '$76.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'Bleach', 'colourWayId': 201694562, 'brandName': 'Topshop Petite', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 114609614, 'productType': 'Product', 'url': 'topshop-petite/topshop-petite-premium-mom-organic-cotton-blend-jean-in-bleach/prd/201694561?clr=bleach&colourWayId=201694562', 'imageUrl': 'images.asos-media.com/products/topshop-petite-premium-mom-organic-cotton-blend-jean-in-bleach/201694561-1-bleach', 'videoUrl': 'video.asos-media.com/products/topshop-petite-premium-mom-organic-cotton-blend-jean-in-bleach/201694561-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 201754550, 'name': 'ASYOU low rise flare jean in dirty bleach wash - part of a set', 'price': {'current': {'value': 41.9, 'text': '$41.90'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'Dirty bleach wash', 'colourWayId': 201754551, 'brandName': 'AsYou', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': 78759, 'productCode': 114868226, 'productType': 'MixMatchProduct', 'url': 'asyou/asyou-denim-corset-in-dirty-bleach-wash-part-of-a-set/grp/78759?clr=dirty-bleach-wash&colourWayId=201754551#201754550', 'imageUrl': 'images.asos-media.com/products/asyou-low-rise-flare-jean-in-dirty-bleach-wash-part-of-a-set/201754550-1-dirtybleachwash', 'videoUrl': 'video.asos-media.com/products/asyou-low-rise-flare-jean-in-dirty-bleach-wash-part-of-a-set/201754550-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 201927409, 'name': 'Noisy May Tall Drew ripped knee wide leg jeans in light blue', 'price': {'current': {'value': 50.4, 'text': '$50.40'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'LIGHT BLUE', 'colourWayId': 201927410, 'brandName': 'Noisy May Tall', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 115118903, 'productType': 'Product', 'url': 'noisy-may-tall/noisy-may-tall-drew-ripped-knee-wide-leg-jeans-in-light-blue/prd/201927409?clr=light-blue&colourWayId=201927410', 'imageUrl': 'images.asos-media.com/products/noisy-may-tall-drew-ripped-knee-wide-leg-jeans-in-light-blue/201927409-1-lightblue', 'videoUrl': 'video.asos-media.com/products/noisy-may-tall-drew-ripped-knee-wide-leg-jeans-in-light-blue/201927409-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 22949888, 'name': 'French Connection blue light wash jean', 'price': {'current': {'value': 115.0, 'text': '$115.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'Light blue', 'colourWayId': 60438870, 'brandName': 'French Connection', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 1912483, 'productType': 'Product', 'url': 'french-connection/french-connection-blue-light-wash-jean/prd/22949888?clr=light-blue&colourWayId=60438870', 'imageUrl': 'images.asos-media.com/products/french-connection-blue-light-wash-jean/22949888-1-lightblue', 'videoUrl': 'video.asos-media.com/products/french-connection-blue-light-wash-jean/22949888-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 24202676, 'name': 'French Connection mom jeans in light blue wash', 'price': {'current': {'value': 80.5, 'text': '$80.50'
+                }, 'previous': {'value': 115.0, 'text': '$115.00'
+                }, 'rrp': {'value': None, 
+    'text': ''
+                }, 'isMarkedDown': True, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'Light blue', 'colourWayId': 60547415, 'brandName': 'French Connection', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 2015949, 'productType': 'Product', 'url': 'french-connection/french-connection-mom-jeans-in-light-blue-wash/prd/24202676?clr=light-blue&colourWayId=60547415', 'imageUrl': 'images.asos-media.com/products/french-connection-mom-jeans-in-light-blue-wash/24202676-1-lightblue', 'videoUrl': None, 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 202315968, 'name': 'Pull&Bear Tall high waisted ultra skinny basic jean in light blue', 'price': {'current': {'value': 19.9, 'text': '$19.90'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'LIGHT BLUE', 'colourWayId': 202315969, 'brandName': 'Pull&Bear', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 116375201, 'productType': 'Product', 'url': 'pullbear/pullbear-tall-high-waisted-ultra-skinny-basic-jean-in-light-blue/prd/202315968?clr=light-blue&colourWayId=202315969', 'imageUrl': 'images.asos-media.com/products/pullbear-tall-high-waisted-ultra-skinny-basic-jean-in-light-blue/202315968-1-lightblue', 'videoUrl': None, 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 200943537, 'name': "ASOS DESIGN Hourglass high waist 'slouchy' mom jean in stonewash with rips", 'price': {'current': {'value': 40.0, 'text': '$40.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 
+    'USD'
+            }, 'colour': 'Stonewash', 'colourWayId': 200943538, 'brandName': 'ASOS DESIGN', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 108078554, 'productType': 'Product', 'url': 'asos-design/asos-design-hourglass-high-waist-slouchy-mom-jean-in-stonewash-with-rips/prd/200943537?clr=stonewash&colourWayId=200943538', 'imageUrl': 'images.asos-media.com/products/asos-design-hourglass-high-waist-slouchy-mom-jean-in-stonewash-with-rips/200943537-1-stonewash', 'videoUrl': 'video.asos-media.com/products/asos-design-hourglass-high-waist-slouchy-mom-jean-in-stonewash-with-rips/200943537-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 201694570, 'name': 'Topshop Tall Premium Mom organic cotton blend jean in bleach', 'price': {'current': {'value': 76.0, 'text': '$76.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'Bleach', 'colourWayId': 201694571, 'brandName': 'Topshop Tall', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 114609617, 'productType': 'Product', 'url': 'topshop-tall/topshop-tall-premium-mom-organic-cotton-blend-jean-in-bleach/prd/201694570?clr=bleach&colourWayId=201694571', 'imageUrl': 'images.asos-media.com/products/topshop-tall-premium-mom-organic-cotton-blend-jean-in-bleach/201694570-1-bleach', 'videoUrl': 'video.asos-media.com/products/topshop-tall-premium-mom-organic-cotton-blend-jean-in-bleach/201694570-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 202064696, 'name': 'Bershka Tall high waisted dad jean in bleached wash', 'price': {'current': {'value': 45.9, 'text': '$45.90'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'blue', 'colourWayId': 202064698, 'brandName': 'Bershka', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 
+    'productCode': 115466786, 'productType': 'Product', 'url': 'bershka/bershka-tall-high-waisted-dad-jean-in-bleached-wash/prd/202064696?clr=blue&colourWayId=202064698', 'imageUrl': 'images.asos-media.com/products/bershka-tall-high-waisted-dad-jean-in-bleached-wash/202064696-1-blue', 'videoUrl': None, 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 13818347, 'name': 'Vero Moda Petite mom jeans with high waist in light blue denim', 'price': {'current': {'value': 57.0, 'text': '$57.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'LIGHT BLUE', 'colourWayId': 16568760, 'brandName': 'Vero Moda Petite', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 1596449, 'productType': 'Product', 'url': 'vero-moda-petite/vero-moda-petite-mom-jeans-with-high-waist-in-light-blue-denim/prd/13818347?clr=light-blue&colourWayId=16568760', 'imageUrl': 'images.asos-media.com/products/vero-moda-petite-mom-jeans-with-high-waist-in-light-blue-denim/13818347-1-lightblue', 'videoUrl': 'video.asos-media.com/products/vero-moda-petite-mom-jeans-with-high-waist-in-light-blue-denim/13818347-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 201011195, 'name': "ASOS DESIGN Maternity high waist 'slouchy' mom jeans in stonewash", 'price': {'current': {'value': 35.0, 'text': '$35.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': 
+    False, 'currency': 'USD'
+            }, 'colour': 'Stonewash', 'colourWayId': 201011196, 'brandName': 'ASOS Maternity', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 108820430, 'productType': 'Product', 'url': 'asos-maternity/asos-design-maternity-high-waist-slouchy-mom-jeans-in-stonewash/prd/201011195?clr=stonewash&colourWayId=201011196', 'imageUrl': 'images.asos-media.com/products/asos-design-maternity-high-waist-slouchy-mom-jeans-in-stonewash/201011195-1-stonewash', 'videoUrl': 'video.asos-media.com/products/asos-design-maternity-high-waist-slouchy-mom-jeans-in-stonewash/201011195-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 201460478, 'name': 'Topshop Joni jean in bleach blue', 'price': {'current': {'value': 67.0, 'text': '$67.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 
+    'USD'
+            }, 'colour': 'Bleach', 'colourWayId': 201460483, 'brandName': 'Topshop', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 113462284, 'productType': 'Product', 'url': 'topshop/topshop-joni-jean-in-bleach-blue/prd/201460478?clr=bleach&colourWayId=201460483', 'imageUrl': 'images.asos-media.com/products/topshop-joni-jean-in-bleach-blue/201460478-1-bleach', 'videoUrl': 'video.asos-media.com/products/topshop-joni-jean-in-bleach-blue/201460478-catwalk-AVS', 'isSellingFast': True, 'sponsoredCampaignId': None
+        },
+        {'id': 201927252, 'name': 'Noisy May Petite ripped knee wide leg jeans in light blue', 'price': {'current': {'value': 50.4, 'text': '$50.40'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'LIGHT BLUE', 'colourWayId': 201927253, 'brandName': 'Noisy May Petite', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 115118900, 'productType': 'Product', 'url': 'noisy-may-petite/noisy-may-petite-ripped-knee-wide-leg-jeans-in-light-blue/prd/201927252?clr=light-blue&colourWayId=201927253', 'imageUrl': 'images.asos-media.com/products/noisy-may-petite-ripped-knee-wide-leg-jeans-in-light-blue/201927252-1-lightblue', 'videoUrl': 'video.asos-media.com/products/noisy-may-petite-ripped-knee-wide-leg-jeans-in-light-blue/201927252-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 201927868, 'name': 'Noisy May Tall Callie high waisted skinny jeans in light blue', 'price': {'current': {'value': 37.0, 'text': '$37.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'Light Blue', 'colourWayId': 201927873, 'brandName': 'Noisy May Tall', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 115117873, 'productType': 'Product', 'url': 'noisy-may-tall/noisy-may-tall-callie-high-waisted-skinny-jeans-in-light-blue/prd/201927868?clr=light-blue&colourWayId=201927873', 'imageUrl': 'images.asos-media.com/products/noisy-may-tall-callie-high-waisted-skinny-jeans-in-light-blue/201927868-1-lightblue', 'videoUrl': 'video.asos-media.com/products/noisy-may-tall-callie-high-waisted-skinny-jeans-in-light-blue/201927868-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 202064736, 'name': 'Bershka Petite high waisted dad jeans in bleached wash', 'price': {'current': {'value': 45.9, 'text': '$45.90'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': 
+    False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'blue', 'colourWayId': 202064737, 'brandName': 'Bershka', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 115466798, 'productType': 'Product', 'url': 'bershka/bershka-petite-high-waisted-dad-jeans-in-bleached-wash/prd/202064736?clr=blue&colourWayId=202064737', 'imageUrl': 'images.asos-media.com/products/bershka-petite-high-waisted-dad-jeans-in-bleached-wash/202064736-1-blue', 'videoUrl': None, 'isSellingFast': True, 'sponsoredCampaignId': None
+        },
+        {'id': 201209012, 'name': 'Dr Denim Plus Lexy super skinny jeans in light wash', 'price': {'current': {'value': 60.0, 'text': '$60.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'Breeze Mid Destroyed', 'colourWayId': 201209015, 'brandName': 'Dr Denim Plus', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 110594055, 'productType': 'Product', 'url': 'dr-denim-plus/dr-denim-plus-lexy-super-skinny-jeans-in-light-wash/prd/201209012?clr=breeze-mid-destroyed&colourWayId=201209015', 'imageUrl': 'images.asos-media.com/products/dr-denim-plus-lexy-super-skinny-jeans-in-light-wash/201209012-1-breezemiddestroye', 'videoUrl': 'video.asos-media.com/products/dr-denim-plus-lexy-super-skinny-jeans-in-light-wash/201209012-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 202335039, 'name': 'In The Style Plus x Perrie Sian straight leg jeans in mid 
+    blue wash', 'price': {'current': {'value': 60.0, 'text': '$60.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'Light blue wash', 'colourWayId': 202335045, 'brandName': 'In The Style Plus', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 116414880, 'productType': 'Product', 'url': 'in-the-style-plus/in-the-style-plus-x-perrie-sian-straight-leg-jeans-in-mid-blue-wash/prd/202335039?clr=light-blue-wash&colourWayId=202335045', 'imageUrl': 'images.asos-media.com/products/in-the-style-plus-x-perrie-sian-straight-leg-jeans-in-mid-blue-wash/202335039-1-lightbluewash', 'videoUrl': 'video.asos-media.com/products/in-the-style-plus-x-perrie-sian-straight-leg-jeans-in-mid-blue-wash/202335039-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 202657279, 'name': 'Bershka 
+    jegging in light blue', 'price': {'current': {'value': 39.9, 'text': '$39.90'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 
+    'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'LIGHT BLUE', 'colourWayId': 202657321, 'brandName': 'Bershka', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 117731893, 'productType': 'Product', 'url': 'bershka/bershka-jegging-in-light-blue/prd/202657279?clr=light-blue&colourWayId=202657321', 'imageUrl': 'images.asos-media.com/products/bershka-jegging-in-light-blue/202657279-1-lightblue', 'videoUrl': None, 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 24390197, 'name': 'Dr Denim Petite Bella oversized mom jeans in light wash blue', 'price': {'current': {'value': 85.0, 'text': '$85.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'Empress light blue', 'colourWayId': 60577985, 'brandName': 'Dr Denim Petite', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 2031853, 'productType': 'Product', 'url': 'dr-denim-petite/dr-denim-petite-bella-oversized-mom-jeans-in-light-wash-blue/prd/24390197?clr=empress-light-blue&colourWayId=60577985', 'imageUrl': 'images.asos-media.com/products/dr-denim-petite-bella-oversized-mom-jeans-in-light-wash-blue/24390197-1-empresslightblue', 'videoUrl': 'video.asos-media.com/products/dr-denim-petite-bella-oversized-mom-jeans-in-light-wash-blue/24390197-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 201186854, 'name': 'Dr Denim Lexy super skinny jeans with rips in light wash', 'price': {'current': {'value': 70.0, 'text': '$70.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'Breeze Mid Destroyed', 'colourWayId': 201186855, 'brandName': 'Dr Denim', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 110308491, 'productType': 'Product', 'url': 'dr-denim/dr-denim-lexy-super-skinny-jeans-with-rips-in-light-wash/prd/201186854?clr=breeze-mid-destroyed&colourWayId=201186855', 'imageUrl': 'images.asos-media.com/products/dr-denim-lexy-super-skinny-jeans-with-rips-in-light-wash/201186854-1-breezemiddestroyed', 'videoUrl': 'video.asos-media.com/products/dr-denim-lexy-super-skinny-jeans-with-rips-in-light-wash/201186854-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 23429708, 'name': 'Urban Bliss Plus high rise cropped flared jeans in bleach wash', 'price': {'current': {'value': 51.0, 'text': '$51.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'Bleach wash', 'colourWayId': 60482022, 'brandName': 'Urban Bliss Plus', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 1951585, 'productType': 'Product', 'url': 'urban-bliss-plus/urban-bliss-plus-high-rise-cropped-flared-jeans-in-bleach-wash/prd/23429708?clr=bleach-wash&colourWayId=60482022', 'imageUrl': 'images.asos-media.com/products/urban-bliss-plus-high-rise-cropped-flared-jeans-in-bleach-wash/23429708-1-bleachwash', 'videoUrl': 'video.asos-media.com/products/urban-bliss-plus-high-rise-cropped-flared-jeans-in-bleach-wash/23429708-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 201750598, 'name': 'NA-KD high waist slim destroyed jeans in light blue', 'price': {'current': {'value': 35.25, 'text': '$35.25'
+                }, 'previous': {'value': 47.0, 'text': '$47.00'
+                }, 'rrp': {'value': 68.0, 'text': '$68.00'
+                }, 'isMarkedDown': True, 'isOutletPrice': True, 'currency': 'USD'
+            }, 'colour': 'blue', 'colourWayId': 201750600, 'brandName': 'NA-KD', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 114864281, 'productType': 'Product', 'url': 'na-kd/na-kd-high-waist-slim-destroyed-jeans-in-light-blue/prd/201750598?clr=blue&colourWayId=201750600', 'imageUrl': 'images.asos-media.com/products/na-kd-high-waist-slim-destroyed-jeans-in-light-blue/201750598-1-blue', 'videoUrl': 'video.asos-media.com/products/na-kd-high-waist-slim-destroyed-jeans-in-light-blue/201750598-catwalk-AVS', 'isSellingFast': 
+    False, 'sponsoredCampaignId': None
+        },
+        {'id': 202582174, 'name': 'Bershka Tall mom jean in bleach', 'price': {'current': {'value': 35.9, 'text': '$35.90'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'LIGHT BLUE', 'colourWayId': 202582175, 'brandName': 'Bershka', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 117603435, 
+    'productType': 'Product', 'url': 'bershka/bershka-tall-mom-jean-in-bleach/prd/202582174?clr=light-blue&colourWayId=202582175', 'imageUrl': 'images.asos-media.com/products/bershka-tall-mom-jean-in-bleach/202582174-1-lightblue', 'videoUrl': None, 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 200976706, 'name': 'Parisian Tall front split flared jeans in light blue', 'price': {'current': {'value': 32.0, 'text': '$32.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': 40.0, 'text': '$40.00'
+                }, 'isMarkedDown': False, 'isOutletPrice': True, 'currency': 'USD'
+            }, 'colour': 'LIGHT BLUE', 'colourWayId': 200976707, 'brandName': 'Parisian Tall', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 108484045, 'productType': 'Product', 'url': 'parisian-tall/parisian-tall-front-split-flared-jeans-in-light-blue/prd/200976706?clr=light-blue&colourWayId=200976707', 'imageUrl': 'images.asos-media.com/products/parisian-tall-front-split-flared-jeans-in-light-blue/200976706-1-lightblue', 'videoUrl': 'video.asos-media.com/products/parisian-tall-front-split-flared-jeans-in-light-blue/200976706-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 201543277, 'name': 'ASOS DESIGN Hourglass organic cotton blend patchwork dad jeans', 'price': {'current': {'value': 58.0, 'text': '$58.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'Lightwash', 'colourWayId': 201543278, 'brandName': 'ASOS DESIGN', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 113534584, 'productType': 'Product', 'url': 'asos-design/asos-design-hourglass-organic-cotton-blend-patchwork-dad-jeans/prd/201543277?clr=lightwash&colourWayId=201543278', 'imageUrl': 'images.asos-media.com/products/asos-design-hourglass-organic-cotton-blend-patchwork-dad-jeans/201543277-1-lightwash', 'videoUrl': 'video.asos-media.com/products/asos-design-hourglass-organic-cotton-blend-patchwork-dad-jeans/201543277-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        },
+        {'id': 201557025, 'name': 'NA-KD x Lisa 
+    Marie Schiffner straight leg jeans with printed back pocket in light blue', 'price': {'current': {'value': 49.0, 'text': '$49.00'
+                }, 'previous': {'value': None, 'text': ''
+                }, 'rrp': {'value': None, 'text': ''
+                }, 'isMarkedDown': False, 'isOutletPrice': False, 'currency': 'USD'
+            }, 'colour': 'Light Blue', 'colourWayId': 201557026, 'brandName': 'NA-KD', 'hasVariantColours': False, 'hasMultiplePrices': False, 'groupId': None, 'productCode': 113708371, 'productType': 'Product', 'url': 'na-kd/na-kd-x-lisa-marie-schiffner-straight-leg-jeans-with-printed-back-pocket-in-light-blue/prd/201557025?clr=light-blue&colourWayId=201557026', 'imageUrl': 'images.asos-media.com/products/na-kd-x-lisa-marie-schiffner-straight-leg-jeans-with-printed-back-pocket-in-light-blue/201557025-1-lightblue', 'videoUrl': 'video.asos-media.com/products/na-kd-x-lisa-marie-schiffner-straight-leg-jeans-with-printed-back-pocket-in-light-blue/201557025-catwalk-AVS', 'isSellingFast': False, 'sponsoredCampaignId': None
+        }
+    ],
+    
+    'facets': [
+        {'id': 'range', 'name': 'Sale/New Season', 'facetValues': [
+                {'count': 415, 'id': 'sale', 'name': 'Sale', 'isSelected': False
+                },
+                {'count': 254, 'id': 'new_season', 'name': 'New Season', 'isSelected': False
+                }
+            ], 'displayStyle': 'Single-Column', 'facetType': 'TextMultiSelect', 'hasSelectedValues': False
+        },
+        {'id': 'floor', 'name': 'Gender', 'facetValues': [
+                {'count': 4, 'id': '1001', 'name': 'Men', 'isSelected': False
+                },
+                {'count': 668, 'id': '1000', 'name': 'Women', 'isSelected': False
+                },
+                {'count': 3, 'id': '2001', 'name': 'Unisex', 'isSelected': False
+                }
+            ], 'displayStyle': 'Single-Column', 'facetType': 'TextMultiSelect', 'hasSelectedValues': False
+        },
+        {'id': 'attribute_1047', 'name': 'Product Type', 'facetValues': [
+                {'count': 668, 'id': '8393', 'name': 'Jeans', 'isSelected': False
+                },
+                {'count': 1, 'id': '8412', 'name': 'Jeggings', 'isSelected': False
+                },
+                {'count': 1, 'id': '8390', 'name': 'Shirts', 'isSelected': False
+                }
+            ], 'displayStyle': 'Single-Column', 'facetType': 'TextMultiSelect', 'hasSelectedValues': False
+        },
+        {'id': 'attribute_1046', 'name': 'Style', 'facetValues': [
+                {'count': 1, 'id': '8333', 'name': 'Bootcut', 'isSelected': False
+                },
+                {'count': 5, 'id': '8344', 'name': 'Boyfriend', 'isSelected': 
+    False
+                },
+                {'count': 27, 'id': '8335', 'name': 'Cropped', 'isSelected': False
+                },
+                {'count': 1, 'id': '8352', 'name': 'Denim', 'isSelected': False
+                },
+                {'count': 44, 
+    'id': '8428', 'name': 'Flare', 'isSelected': False
+                },
+                {'count': 174, 'id': '8337', 'name': 'High Waisted', 'isSelected': False
+                },
+                {'count': 30, 'id': '8426', 'name': 'Loose', 'isSelected': False
+                },
+                {'count': 192, 'id': '10801', 'name': 'Mom Jeans', 'isSelected': False
+                },
+                {'count': 35, 'id': '61468', 'name': 'Other', 
+    'isSelected': False
+                },
+                {'count': 18, 'id': '8192', 'name': 'Regular', 'isSelected': False
+                },
+                {'count': 96, 'id': '8195', 'name': 'Skinny', 'isSelected': False
+                },
+                {'count': 26, 'id': '8205', 'name': 'Slim', 'isSelected': False
+                },
+                {'count': 14, 'id': '72016', 'name': 'Split', 'isSelected': False
+                },
+                {'count': 158, 'id': 
+    '8310', 'name': 'Straight Leg', 'isSelected': False
+                },
+                {'count': 9, 'id': '8429', 'name': 'Super Skinny', 'isSelected': False
+                },
+                {'count': 13, 'id': '8430', 'name': 'Tapered', 'isSelected': False
+                },
+                {'count': 70, 'id': '8306', 'name': 'Wide Leg', 'isSelected': False
+                }
+            ], 'displayStyle': 'Single-Column', 'facetType': 'TextMultiSelect', 'hasSelectedValues': False
+        },
+        {'id': 'attribute_10155', 'name': 'Body Fit', 'facetValues': [
+                {'count': 433, 'id': '6764', 'name': 'Main Collection', 'isSelected': False
+                },
+                {'count': 20, 'id': '6400', 'name': 'Maternity', 'isSelected': False
+                },
+                {'count': 108, 'id': '6403', 'name': 'Petite', 'isSelected': False
+                },
+                {'count': 57, 'id': '7699', 'name': 'Plus Size', 'isSelected': False
+                },
+                {'count': 54, 'id': '6399', 'name': 'Tall', 'isSelected': False
+                }
+            ], 'displayStyle': 'Single-Column', 'facetType': 'TextMultiSelect', 'hasSelectedValues': False
+        },
+        {'id': 'size', 'name': 'Size', 'facetValues': [
+                {'count': 79, 'id': '74', 'name': 'US 0', 'isSelected': False
+                },
+                {'count': 4, 'id': '73249', 'name': 'US 0 L26', 'isSelected': False
+                },
+                {'count': 1, 'id': '73109', 'name': 'US 0 L30', 'isSelected': False
+                },
+                {'count': 2, 'id': '73121', 'name': 'US 0 L32', 'isSelected': False
+                },
+                {'count': 135, 'id': '86', 'name': 'US 2', 'isSelected': False
+                },
+                {'count': 5, 'id': '73261', 'name': 'US 2 L26', 'isSelected': False
+                },
+                {'count': 15, 'id': '73157', 'name': 'US 2 L30', 'isSelected': False
+                },
+                {'count': 26, 'id': '73169', 'name': 'US 2 L32', 'isSelected': False
+                },
+                {'count': 8, 'id': '73171', 'name': 'US 2 L34', 'isSelected': False
+                },
+                {'count': 152, 'id': '98', 'name': 'US 4', 'isSelected': False
+                },
+                {'count': 5, 'id': '73273', 'name': 'US 4 L26', 'isSelected': False
+                },
+                {'count': 15, 'id': '73185', 'name': 'US 4 L30', 'isSelected': False
+                },
+                {'count': 30, 'id': '73197', 'name': 'US 4 L32', 'isSelected': False
+                },
+                {'count': 9, 'id': '73199', 'name': 'US 4 L34', 'isSelected': False
+                },
+                {'count': 164, 'id': '14', 'name': 'US 6', 'isSelected': False
+                },
+                {'count': 4, 'id': '73201', 'name': 'US 6 L26', 'isSelected': False
+                },
+                {'count': 12, 'id': '73017', 'name': 'US 6 L30', 'isSelected': False
+                },
+                {'count': 30, 'id': '73029', 'name': 'US 6 L32', 'isSelected': False
+                },
+                {'count': 12, 'id': '73031', 'name': 'US 6 L34', 'isSelected': False
+                },
+                {'count': 150, 'id': '26', 'name': 'US 8', 'isSelected': False
+                },
+                {'count': 4, 'id': '73213', 'name': 'US 8 L26', 'isSelected': False
+                },
+                {'count': 14, 'id': '73045', 'name': 'US 8 L30', 'isSelected': False
+                },
+                {'count': 27, 'id': '73057', 'name': 'US 8 L32', 'isSelected': False
+                },
+                {'count': 10, 'id': '73059', 'name': 'US 8 L34', 'isSelected': False
+                },
+                {'count': 129, 'id': '38', 'name': 'US 10', 'isSelected': False
+                },
+                {'count': 3, 'id': 
+    '73225', 'name': 'US 10 L26', 'isSelected': False
+                },
+                {'count': 11, 'id': '72929', 'name': 'US 10 L30', 'isSelected': False
+                },
+                {'count': 26, 'id': '49226', 'name': 'US 10 L32', 'isSelected': False
+                },
+                {'count': 8, 'id': '72926', 'name': 'US 10 L34', 'isSelected': False
+                },
+                {'count': 99, 'id': '50', 'name': 'US 12', 'isSelected': False
+                },
+                {'count': 4, 'id': '73237', 'name': 'US 12 L26', 'isSelected': False
+                },
+                {'count': 14, 'id': '53261', 'name': 'US 12 L30', 'isSelected': False
+                },
+                {'count': 29, 'id': '53272', 'name': 'US 12 L32', 'isSelected': False
+                },
+                {'count': 9, 'id': '53277', 'name': 'US 12 L34', 'isSelected': False
+                },
+                {'count': 66, 'id': '62', 'name': 'US 14', 'isSelected': False
+                },
+                {'count': 16, 'id': '48911', 'name': 'US 14 L30', 'isSelected': False
+                },
+                {'count': 34, 'id': '48923', 'name': 'US 14 L32', 'isSelected': False
+                },
+                {'count': 10, 'id': '53290', 'name': 'US 14 L34', 'isSelected': False
+                },
+                {'count': 30, 'id': '144', 'name': 'US 16', 'isSelected': False
+                },
+                {'count': 3, 'id': '48935', 'name': 'US 16 L30', 'isSelected': False
+                },
+                {'count': 4, 'id': '48947', 'name': 'US 16 L32', 'isSelected': 
+    False
+                },
+                {'count': 2, 'id': '53309', 'name': 'US 16 L34', 'isSelected': False
+                },
+                {'count': 25, 'id': '165', 'name': 'US 18', 'isSelected': False
+                },
+                {'count': 1, 'id': '48959', 'name': 'US 18 L30', 'isSelected': False
+                },
+                {'count': 5, 'id': '48971', 'name': 'US 18 L32', 'isSelected': False
+                },
+                {'count': 1, 'id': '53328', 'name': 'US 18 L34', 'isSelected': False
+                },
+                {'count': 19, 'id': '174', 'name': 'US 20', 'isSelected': False
+                },
+                {'count': 4, 'id': '48995', 'name': 'US 20 L32', 'isSelected': False
+                },
+                {'count': 2, 'id': '53347', 'name': 'US 20 L34', 'isSelected': False
+                },
+                {'count': 11, 'id': '186', 'name': 'US 22', 'isSelected': False
+                },
+                {'count': 3, 'id': '49019', 'name': 'US 22 L32', 'isSelected': False
+                },
+                {'count': 1, 'id': '198', 'name': 'US 24', 'isSelected': False
+                },
+                {'count': 2, 'id': '53388', 'name': 'US 24 L32', 'isSelected': False
+                },
+                {'count': 2, 'id': '53399', 'name': 'US 24 L34', 'isSelected': False
+                },
+                {'count': 1, 'id': '10966', 'name': 'L L34', 'isSelected': False
+                },
+                {'count': 7, 'id': '5167', 'name': 'XL', 'isSelected': False
+                },
+                {'count': 3, 'id': '5119', 'name': '2XL', 'isSelected': False
+                },
+                {'count': 1, 'id': '5131', 'name': '2XS', 'isSelected': False
+                },
+                {'count': 10, 'id': '4421', 'name': 'S', 'isSelected': False
+                },
+                {'count': 1, 'id': '7912', 'name': 'S L30', 'isSelected': False
+                },
+                {'count': 3, 'id': '7924', 'name': 'S L32', 'isSelected': False
+                },
+                {'count': 10, 'id': '4409', 'name': 'M', 'isSelected': False
+                },
+                {'count': 5, 'id': '5155', 'name': 'L', 'isSelected': False
+                },
+                {'count': 1, 'id': '7792', 'name': 'L L30', 'isSelected': False
+                },
+                {'count': 2, 'id': '7804', 'name': 'L L32', 'isSelected': False
+                },
+                {'count': 1, 'id': '7972', 'name': 'XL L30', 'isSelected': False
+                },
+                {'count': 2, 'id': '7984', 'name': 'XL L32', 'isSelected': False
+                },
+                {'count': 8, 'id': '5179', 'name': 'XS', 'isSelected': False
+                },
+                {'count': 2, 'id': '8044', 'name': 'XS L32', 'isSelected': False
+                },
+                {'count': 1, 'id': '6741', 'name': 'EU 54', 'isSelected': False
+                },
+                {'count': 2, 'id': '920', 'name': 'W23 L26', 'isSelected': False
+                },
+                {'count': 3, 'id': '932', 'name': 'W23 L28', 'isSelected': False
+                },
+                {'count': 1, 'id': '9522', 'name': 'W23 L28.5', 'isSelected': False
+                },
+                {'count': 1, 'id': '7705', 'name': 'W23 L30', 'isSelected': False
+                },
+                {'count': 31, 'id': '1597', 'name': 'W24', 'isSelected': False
+                },
+                {'count': 4, 'id': '944', 'name': 'W24 L26', 'isSelected': False
+                },
+                {'count': 4, 'id': '1585', 'name': 'W23', 'isSelected': False
+                },
+                {'count': 16, 'id': '956', 'name': 'W24 L28', 'isSelected': False
+                },
+                {'count': 30, 'id': '389', 'name': 'W24 L30', 'isSelected': False
+                },
+                {'count': 1, 'id': '5473', 'name': 'W24 L31', 'isSelected': False
+                },
+                {'count': 56, 'id': '401', 'name': 'W24 L32', 'isSelected': False
+                },
+                {'count': 17, 'id': '413', 'name': 'W24 L34', 'isSelected': False
+                },
+                {'count': 1, 'id': '1234', 'name': 'W24 L36', 'isSelected': False
+                },
+                {'count': 2, 'id': '1246', 'name': 'W24 L38', 'isSelected': False
+                },
+                {'count': 1, 'id': '5778', 'name': 'W24 L31', 'isSelected': False
+                },
+                {'count': 1, 'id': '10361', 'name': 'W24-25', 'isSelected': False
+                },
+                {'count': 4, 'id': '15314', 'name': 'W24L30', 'isSelected': False
+                },
+                {'count': 23, 'id': '1609', 'name': 'W25', 'isSelected': False
+                },
+                {'count': 7, 'id': '968', 'name': 'W25 L26', 'isSelected': False
+                },
+                {'count': 22, 'id': '980', 'name': 'W25 L28', 'isSelected': False
+                },
+                {'count': 5, 'id': '1258', 'name': 'W25 L36', 'isSelected': False
+                },
+                {'count': 1, 'id': '5497', 'name': 'W25 L29', 'isSelected': False
+                },
+                {'count': 40, 'id': 
+    '425', 'name': 'W25 L30', 'isSelected': False
+                },
+                {'count': 2, 'id': '5509', 'name': 'W25 L31', 'isSelected': False
+                },
+                {'count': 60, 'id': '437', 'name': 'W25 L32', 'isSelected': False
+                },
+                {'count': 1, 'id': '44090', 'name': 'W25 L33', 'isSelected': False
+                },
+                {'count': 29, 'id': '449', 'name': 'W25 L34', 'isSelected': False
+                },
+                {'count': 2, 'id': '1270', 'name': 'W25 L38', 'isSelected': False
+                },
+                {'count': 11, 'id': '992', 'name': 'W26 L26', 'isSelected': False
+                },
+                {'count': 1, 'id': '44262', 'name': 'W26-27', 'isSelected': False
+                },
+                {'count': 3, 'id': '15347', 'name': 'W25L30', 'isSelected': False
+                },
+                {'count': 43, 'id': '1621', 'name': 'W26', 'isSelected': False
+                },
+                {'count': 11, 'id': '497', 'name': 'W27 L30', 'isSelected': False
+                },
+                {'count': 1, 'id': '1563', 'name': 'W27 L36', 'isSelected': False
+                },
+                {'count': 1, 'id': '5521', 'name': 'W26 L27', 'isSelected': False
+                },
+                {'count': 28, 'id': '1004', 'name': 'W26 L28', 'isSelected': False
+                },
+                {'count': 51, 'id': '461', 'name': 'W26 L30', 'isSelected': False
+                },
+                {'count': 1, 'id': '5545', 'name': 'W26 L31', 'isSelected': False
+                },
+                {'count': 81, 'id': '473', 'name': 'W26 L32', 'isSelected': False
+                },
+                {'count': 1, 'id': '18638', 'name': 'W26 L33', 'isSelected': False
+                },
+                {'count': 33, 'id': '485', 'name': 'W26 L34', 'isSelected': False
+                },
+                {'count': 12, 'id': '1282', 'name': 'W26 L36', 'isSelected': False
+                },
+                {'count': 1, 'id': '7264', 'name': 'W26 L38', 'isSelected': False
+                },
+                {'count': 25, 'id': '1052', 'name': 'W28 L28', 'isSelected': False
+                },
+                {'count': 1, 'id': '5790', 'name': 'W28 L31', 'isSelected': False
+                },
+                {'count': 1, 'id': '44521', 'name': 'W28-29', 'isSelected': False
+                },
+                {'count': 3, 'id': '14747', 'name': 'W26L30', 'isSelected': False
+                },
+                {'count': 1, 'id': '1064', 'name': 'W29 L26', 'isSelected': False
+                },
+                {'count': 21, 'id': '1633', 'name': 'W27', 'isSelected': False
+                },
+                {'count': 1, 'id': '593', 'name': 'W29 L34', 'isSelected': False
+                },
+                {'count': 1, 'id': '1016', 'name': 'W27 L26', 'isSelected': False
+                },
+                {'count': 6, 'id': '1028', 'name': 'W27 L28', 'isSelected': False
+                },
+                {'count': 1, 'id': '5569', 'name': 'W27 L29', 'isSelected': False
+                },
+                {'count': 1, 'id': '5581', 'name': 'W27 L31', 'isSelected': False
+                },
+                {'count': 20, 'id': '509', 'name': 'W27 L32', 'isSelected': False
+                },
+                {'count': 1, 'id': '521', 'name': 'W27 L34', 'isSelected': False
+                },
+                {'count': 1, 'id': '1294', 'name': 'W27 L36', 'isSelected': False
+                },
+                {'count': 1, 'id': '44843', 'name': 'W30-31', 'isSelected': False
+                },
+                {'count': 1, 'id': '1112', 'name': 'W31 L26', 'isSelected': False
+                },
+                {'count': 23, 'id': '653', 'name': 'W31 L32', 'isSelected': False
+                },
+                {'count': 1, 'id': '665', 'name': 'W31 L34', 'isSelected': False
+                },
+                {'count': 45, 'id': '1645', 'name': 'W28', 'isSelected': False
+                },
+                {'count': 1, 'id': '5802', 'name': 'W32 L31', 'isSelected': False
+                },
+                {'count': 13, 'id': '1040', 'name': 'W28 L26', 'isSelected': False
+                },
+                {'count': 1, 'id': '5593', 'name': 'W28 L27', 'isSelected': False
+                },
+                {'count': 1, 'id': '5605', 'name': 'W28 L29', 'isSelected': False
+                },
+                {'count': 51, 'id': '533', 'name': 'W28 L30', 'isSelected': False
+                },
+                {'count': 1, 'id': '5617', 'name': 'W28 L31', 'isSelected': False
+                },
+                {'count': 84, 'id': '545', 'name': 'W28 L32', 'isSelected': False
+                },
+                {'count': 35, 'id': '557', 'name': 'W28 L34', 'isSelected': False
+                },
+                {'count': 14, 'id': '1318', 'name': 'W28 L36', 'isSelected': False
+                },
+                {'count': 1, 'id': '1330', 'name': 'W28 L38', 'isSelected': False
+                },
+                {'count': 2, 'id': '14846', 'name': 'W28L30', 'isSelected': False
+                },
+                {'count': 13, 'id': '1717', 'name': 'W34', 'isSelected': False
+                },
+                {'count': 1, 'id': '1578', 'name': 'W34 L38', 'isSelected': False
+                },
+                {'count': 20, 'id': '1657', 'name': 'W29', 'isSelected': False
+                },
+                {'count': 7, 'id': '1076', 'name': 'W29 L28', 'isSelected': False
+                },
+                {'count': 16, 'id': '569', 'name': 'W29 L30', 'isSelected': False
+                },
+                {'count': 10, 'id': '1741', 'name': 'W36', 'isSelected': False
+                },
+                {'count': 1, 'id': '5653', 'name': 'W29 L31', 'isSelected': False
+                },
+                {'count': 20, 'id': '581', 'name': 'W29 L32', 'isSelected': False
+                },
+                {'count': 1, 'id': '44613', 'name': 'W29 L33', 'isSelected': False
+                },
+                {'count': 3, 'id': '1342', 'name': 
+    'W29 L36', 'isSelected': False
+                },
+                {'count': 39, 'id': '1669', 'name': 'W30', 'isSelected': False
+                },
+                {'count': 13, 'id': '1088', 'name': 'W30 L26', 'isSelected': False
+                },
+                {'count': 27, 'id': '1100', 'name': 'W30 L28', 'isSelected': False
+                },
+                {'count': 57, 'id': '605', 'name': 'W30 L30', 'isSelected': False
+                },
+                {'count': 1, 'id': '5689', 'name': 'W30 L31', 'isSelected': False
+                },
+                {'count': 80, 'id': '617', 'name': 'W30 L32', 'isSelected': False
+                },
+                {'count': 1, 'id': '18168', 'name': 'W30 L33', 'isSelected': False
+                },
+                {'count': 31, 'id': '629', 'name': 'W30 L34', 'isSelected': False
+                },
+                {'count': 16, 'id': '1366', 'name': 'W30 L36', 'isSelected': False
+                },
+                {'count': 2, 'id': '1378', 'name': 'W30 L38', 'isSelected': False
+                },
+                {'count': 2, 'id': '14945', 'name': 'W30L30', 'isSelected': False
+                },
+                {'count': 18, 'id': '1681', 'name': 'W31', 'isSelected': False
+                },
+                {'count': 9, 'id': '1124', 'name': 'W31 L28', 'isSelected': False
+                },
+                {'count': 11, 'id': '641', 
+    'name': 'W31 L30', 'isSelected': False
+                },
+                {'count': 1, 'id': '5725', 'name': 'W31 L31', 'isSelected': False
+                },
+                {'count': 2, 'id': '44961', 'name': 'W31 L33', 'isSelected': False
+                },
+                {'count': 3, 'id': '1390', 'name': 'W31 L36', 'isSelected': False
+                },
+                {'count': 28, 'id': '1693', 'name': 'W32', 'isSelected': False
+                },
+                {'count': 9, 'id': '1136', 'name': 'W32 L26', 'isSelected': False
+                },
+                {'count': 18, 'id': '1148', 'name': 'W32 L28', 'isSelected': False
+                },
+                {'count': 42, 'id': '677', 'name': 'W32 L30', 'isSelected': False
+                },
+                {'count': 2, 'id': '5761', 'name': 'W32 L31', 'isSelected': False
+                },
+                {'count': 76, 'id': '689', 'name': 'W32 L32', 'isSelected': False
+                },
+                {'count': 2, 'id': '18189', 'name': 'W32 L33', 'isSelected': False
+                },
+                {'count': 26, 'id': '701', 'name': 'W32 L34', 'isSelected': False
+                },
+                {'count': 17, 'id': '1414', 'name': 'W32 L36', 'isSelected': False
+                },
+                {'count': 1, 'id': '1426', 'name': 'W32 L38', 'isSelected': False
+                },
+                {'count': 1, 'id': '15044', 'name': 'W32L30', 'isSelected': False
+                },
+                {'count': 3, 'id': '1705', 'name': 'W33', 'isSelected': False
+                },
+                {'count': 4, 'id': '1172', 'name': 'W33 L28', 'isSelected': False
+                },
+                {'count': 4, 'id': '713', 'name': 'W33 L30', 'isSelected': False
+                },
+                {'count': 8, 'id': '725', 'name': 'W33 L32', 'isSelected': False
+                },
+                {'count': 1, 'id': '1438', 'name': 'W33 L36', 'isSelected': False
+                },
+                {'count': 8, 'id': '1184', 'name': 'W34 L26', 'isSelected': False
+                },
+                {'count': 13, 'id': '1196', 'name': 'W34 L28', 'isSelected': False
+                },
+                {'count': 40, 'id': '749', 'name': 'W34 L30', 'isSelected': False
+                },
+                {'count': 1, 'id': '18242', 'name': 'W34 L31', 'isSelected': False
+                },
+                {'count': 58, 'id': '761', 'name': 'W34 L32', 'isSelected': False
+                },
+                {'count': 1, 'id': '18254', 'name': 'W34 L33', 'isSelected': False
+                },
+                {'count': 24, 'id': '773', 'name': 'W34 L34', 'isSelected': False
+                },
+                {'count': 1, 'id': '18265', 'name': 'W34 L35', 'isSelected': False
+                },
+                {'count': 8, 'id': '1462', 'name': 'W34 L36', 'isSelected': False
+                },
+                {'count': 2, 'id': '1474', 'name': 'W34 L38', 'isSelected': False
+                },
+                {'count': 4, 'id': '15143', 'name': 'W34L30', 'isSelected': False
+                },
+                {'count': 30, 'id': '821', 'name': 'W36 L30', 'isSelected': False
+                },
+                {'count': 43, 'id': '833', 'name': 'W36 L32', 'isSelected': False
+                },
+                {'count': 1, 'id': '18287', 'name': 'W36 L33', 'isSelected': False
+                },
+                {'count': 13, 'id': '845', 'name': 'W36 L34', 'isSelected': False
+                },
+                {'count': 2, 'id': '1510', 'name': 'W36 L36', 'isSelected': False
+                },
+                {'count': 2, 'id': '15198', 'name': 'W36L32', 'isSelected': False
+                },
+                {'count': 3, 'id': '1753', 'name': 'W38', 'isSelected': False
+                },
+                {'count': 1, 'id': '4579', 'name': 'W38 L30', 'isSelected': False
+                },
+                {'count': 2, 'id': '4591', 'name': 'W38 L32', 'isSelected': False
+                },
+                {'count': 2, 'id': '1534', 'name': 'W38 L36', 'isSelected': False
+                },
+                {'count': 1, 'id': '4678', 'name': 'W42 L30', 'isSelected': False
+                },
+                {'count': 1, 'id': '4738', 'name': 'W44 L30', 'isSelected': False
+                },
+                {'count': 1, 'id': '4618', 'name': 'W40 L30', 'isSelected': False
+                },
+                {'count': 1, 'id': '4750', 'name': 'W44 L32', 'isSelected': False
+                },
+                {'count': 1, 'id': '4810', 'name': 'W46 L32', 'isSelected': False
+                },
+                {'count': 1, 'id': '8080', 'name': 'XS L32', 'isSelected': False
+                },
+                {'count': 39, 'id': '10990', 'name': 'UK 12', 'isSelected': False
+                },
+                {'count': 33, 'id': '15850', 'name': 'UK 14', 'isSelected': False
+                },
+                {'count': 33, 'id': '15862', 'name': 'UK 16', 'isSelected': False
+                },
+                {'count': 13, 'id': '15874', 'name': 'UK 18', 'isSelected': False
+                },
+                {'count': 4, 'id': '15886', 'name': 'UK 20', 'isSelected': False
+                },
+                {'count': 3, 'id': '15898', 'name': 'UK 22', 'isSelected': False
+                },
+                {'count': 2, 'id': '15910', 'name': 'UK 24', 'isSelected': False
+                },
+                {'count': 10, 'id': '115', 'name': 'UK 4', 'isSelected': False
+                },
+                {'count': 23, 'id': '10987', 'name': 'UK 6', 'isSelected': False
+                },
+                {'count': 2, 'id': '41215', 'name': 'UK 4-6', 'isSelected': False
+                },
+                {'count': 1, 'id': '10808', 'name': 'UK 6 L32', 'isSelected': False
+                },
+                {'count': 1, 'id': '10812', 'name': 'UK 8 L32', 'isSelected': False
+                },
+                {'count': 2, 'id': '10787', 'name': 'UK 10 L32', 'isSelected': False
+                },
+                {'count': 2, 'id': '10791', 'name': 'UK 12 L32', 'isSelected': False
+                },
+                {'count': 1, 'id': '10795', 'name': 'UK 14 L32', 'isSelected': False
+                },
+                {'count': 2, 'id': '7247', 'name': 'UK 18 L32', 'isSelected': False
+                },
+                {'count': 2, 'id': '18167', 'name': 'UK 8-10', 'isSelected': False
+                },
+                {'count': 2, 'id': '18165', 'name': 'UK 12-14', 'isSelected': False
+                },
+                {'count': 2, 'id': '39831', 'name': 'UK 16-18', 'isSelected': False
+                },
+                {'count': 2, 'id': '40306', 'name': 'UK 20-22', 'isSelected': False
+                },
+                {'count': 34, 
+    'id': '10988', 'name': 'UK 8', 'isSelected': False
+                },
+                {'count': 35, 'id': '10989', 'name': 'UK 10', 'isSelected': False
+                },
+                {'count': 1, 'id': '35476', 'name': 
+    'EU44 L32', 'isSelected': False
+                },
+                {'count': 1, 'id': '35479', 'name': 'EU46 L32', 'isSelected': False
+                },
+                {'count': 1, 'id': '35482', 'name': 'EU48 L32', 'isSelected': False
+                },
+                {'count': 1, 'id': '35485', 'name': 'EU50 L32', 'isSelected': False
+                },
+                {'count': 1, 'id': '35488', 'name': 'EU52 L32', 'isSelected': False
+                }
+            ], 'displayStyle': 'Single-Column', 'facetType': 'TextMultiSelect', 'hasSelectedValues': False
+        },
+        {'id': 'base_colour', 'name': 'Color', 'facetValues': [
+                {'count': 2, 'id': '4', 'name': 'Black', 'isSelected': False
+                },
+                {'count': 664, 'id': '3', 'name': 'Blues', 'isSelected': False
+                },
+                {'count': 1, 'id': '8', 'name': 'Purple', 'isSelected': False
+                },
+                {'count': 2, 'id': '5', 'name': 'White', 'isSelected': False
+                }
+            ], 'displayStyle': 'Two-Column', 'facetType': 'TextMultiSelect', 'hasSelectedValues': False
+        },
+        {'id': 'brand', 'name': 'Brand', 'facetValues': [
+                {'count': 37, 'id': '53', 'name': 'ASOS DESIGN', 'isSelected': False
+                },
+                {'count': 3, 'id': '13510', 'name': 'ASOS Maternity', 'isSelected': False
+                },
+                {'count': 13, 'id': '13512', 'name': 'ASOS Petite', 'isSelected': False
+                },
+                {'count': 6, 'id': '14162', 'name': 'ASOS Tall', 'isSelected': False
+                },
+                {'count': 9, 'id': '13511', 'name': 'ASOS Curve', 'isSelected': False
+                },
+                {'count': 5, 'id': '16119', 'name': '& Other Stories', 'isSelected': False
+                },
+                {'count': 2, 'id': '16573', 'name': 'Aeropostale', 'isSelected': False
+                },
+                {'count': 3, 'id': '16631', 'name': 'ASOS Luxe', 'isSelected': False
+                },
+                {'count': 8, 'id': '16575', 'name': 'AsYou', 'isSelected': False
+                },
+                {'count': 1, 'id': '15130', 'name': 'Bandia', 'isSelected': False
+                },
+                {'count': 39, 'id': '15370', 'name': 'Bershka', 'isSelected': False
+                },
+                {'count': 1, 'id': '3234', 'name': 'Bolongaro Trevor', 'isSelected': False
+                },
+                {'count': 1, 'id': '14698', 'name': 'Brave Soul Plus', 'isSelected': False
+                },
+                {'count': 1, 'id': '105', 'name': 'Calvin Klein', 'isSelected': False
+                },
+                {'count': 1, 'id': '12507', 'name': 'Calvin Klein Jeans', 'isSelected': False
+                },
+                {'count': 10, 'id': '15878', 'name': 'Collusion', 'isSelected': False
+                },
+                {'count': 6, 
+    'id': '16269', 'name': 'Cotton:On', 'isSelected': False
+                },
+                {'count': 2, 'id': '16609', 'name': 'Cotton:On Maternity', 'isSelected': False
+                },
+                {'count': 2, 'id': '16606', 'name': 'Cotton:On Plus', 'isSelected': False
+                },
+                {'count': 11, 'id': '16674', 'name': "Don't Think Twice", 'isSelected': False
+                },
+                {'count': 2, 'id': 
+    '16675', 'name': "Don't Think Twice Maternity", 'isSelected': False
+                },
+                {'count': 9, 'id': '16673', 'name': "Don't Think Twice Petite", 'isSelected': False
+                },
+                {'count': 8, 'id': '16672', 'name': "Don't Think Twice Plus", 'isSelected': False
+                },
+                {'count': 7, 'id': '16676', 'name': "Don't Think Twice Tall", 'isSelected': False
+                },
+                {'count': 13, 'id': '166', 'name': 'Dr Denim', 'isSelected': False
+                },
+                {'count': 7, 'id': '16073', 'name': 'Dr Denim Petite', 'isSelected': False
+                },
+                {'count': 6, 'id': '16395', 'name': 'Dr Denim Plus', 'isSelected': False
+                },
+                {'count': 4, 'id': '16072', 'name': 'Dr Denim Tall', 'isSelected': False
+                },
+                {'count': 1, 'id': '16671', 'name': 'Envii', 'isSelected': False
+                },
+                {'count': 2, 'id': '15940', 'name': 'FAE', 'isSelected': False
+                },
+                {'count': 2, 'id': '12731', 'name': 'Fiorucci', 'isSelected': False
+                },
+                {'count': 2, 'id': '224', 'name': 'French Connection', 'isSelected': False
+                },
+                {'count': 1, 'id': '15341', 'name': 'Gebe Maternity', 'isSelected': False
+                },
+                {'count': 4, 'id': '14644', 'name': 'Hollister', 'isSelected': False
+                },
+                {'count': 1, 'id': '16344', 'name': 'Il Sarto', 'isSelected': False
+                },
+                {'count': 2, 'id': '15900', 'name': 'In The Style', 'isSelected': False
+                },
+                {'count': 2, 'id': '16191', 'name': 'In The Style Plus', 'isSelected': False
+                },
+                {'count': 2, 'id': '16394', 'name': 'I Saw It First', 'isSelected': False
+                },
+                {'count': 1, 'id': '13991', 'name': 'JDY', 'isSelected': False
+                },
+                {'count': 2, 'id': '16131', 'name': 'Karl Kani', 'isSelected': False
+                },
+                {'count': 2, 'id': '14489', 'name': 'Lee Jeans', 'isSelected': False
+                },
+                {'count': 1, 'id': '18902', 'name': 'Lee Plus', 'isSelected': False
+                },
+                {'count': 8, 'id': '401', 'name': "Levi's", 'isSelected': False
+                },
+                {'count': 2, 'id': '15580', 'name': 'Lioness', 'isSelected': False
+                },
+                {'count': 1, 'id': '14423', 'name': 'Liquor N Poker', 'isSelected': False
+                },
+                {'count': 3, 'id': '12117', 'name': 'Mango', 'isSelected': False
+                },
+                {'count': 1, 'id': '16515', 'name': 'Minga', 'isSelected': False
+                },
+                {'count': 8, 'id': '14590', 'name': 'Missguided', 'isSelected': False
+                },
+                {'count': 5, 'id': '15028', 'name': 'Missguided Petite', 'isSelected': False
+                },
+                {'count': 5, 'id': '14803', 'name': 'Missguided Plus', 'isSelected': False
+                },
+                {'count': 2, 'id': '14919', 'name': 'Missguided Tall', 'isSelected': False
+                },
+                {'count': 6, 'id': '15128', 'name': 'Miss Selfridge', 'isSelected': False
+                },
+                {'count': 1, 'id': '15129', 'name': 'Miss Selfridge Petite', 'isSelected': False
+                },
+                {'count': 1, 'id': '16633', 'name': 'Missyempire', 'isSelected': False
+                },
+                {'count': 4, 'id': '14012', 'name': 'Monki', 'isSelected': False
+                },
+                {'count': 1, 'id': '14565', 'name': 'NaaNaa', 'isSelected': False
+                },
+                {'count': 15, 'id': '15883', 'name': 'NA-KD', 'isSelected': False
+                },
+                {'count': 25, 'id': '13817', 'name': 'New Look', 'isSelected': False
+                },
+                {'count': 2, 'id': '13843', 'name': 'New Look Maternity', 'isSelected': False
+                },
+                {'count': 13, 'id': '14119', 'name': 'New Look Petite', 'isSelected': False
+                },
+                {'count': 2, 'id': '13844', 'name': 'New Look Plus', 'isSelected': False
+                },
+                {'count': 3, 'id': '14248', 'name': 'New Look Tall', 'isSelected': False
+                },
+                {'count': 7, 'id': '13927', 'name': 'Noisy May', 'isSelected': False
+                },
+                {'count': 2, 'id': '16443', 'name': 'Noisy May Curve', 'isSelected': False
+                },
+                {'count': 5, 'id': '14448', 'name': 'Noisy May Petite', 'isSelected': False
+                },
+                {'count': 4, 'id': '14449', 'name': 'Noisy May Tall', 'isSelected': False
+                },
+                {'count': 3, 'id': '14564', 'name': 'Object', 'isSelected': False
+                },
+                {'count': 12, 'id': '13850', 'name': 'Only', 'isSelected': False
+                },
+                {'count': 3, 'id': '15827', 'name': 'Only Petite', 'isSelected': False
+                },
+                {'count': 2, 'id': '15828', 'name': 'Only Tall', 'isSelected': False
+                },
+                {'count': 7, 'id': '14369', 'name': 'Parisian', 'isSelected': False
+                },
+                {'count': 4, 'id': '15153', 'name': 'Parisian Petite', 'isSelected': False
+                },
+                {'count': 5, 'id': '15154', 'name': 'Parisian Tall', 'isSelected': False
+                },
+                {'count': 7, 'id': '3040', 'name': 'Pieces', 'isSelected': False
+                },
+                {'count': 3, 'id': '17951', 'name': 'Pieces Petite', 'isSelected': False
+                },
+                {'count': 2, 'id': '17952', 'name': 'Pieces Plus', 
+    'isSelected': False
+                },
+                {'count': 3, 'id': '17950', 'name': 'Pieces Tall', 'isSelected': False
+                },
+                {'count': 1, 'id': '3594', 'name': 'Polo Ralph Lauren', 'isSelected': False
+                },
+                {'count': 32, 'id': '14126', 'name': 'Pull&Bear', 'isSelected': False
+                },
+                {'count': 2, 'id': '18053', 'name': 'Rebellious Fashion', 'isSelected': False
+                },
+                {'count': 16, 'id': '12769', 'name': 'Reclaimed Vintage', 'isSelected': False
+                },
+                {'count': 35, 'id': '12983', 'name': 'River Island', 'isSelected': False
+                },
+                {'count': 7, 'id': '16418', 'name': 'River Island Maternity', 'isSelected': False
+                },
+                {'count': 9, 'id': '15230', 'name': 'River Island Petite', 'isSelected': False
+                },
+                {'count': 5, 'id': '15068', 'name': 'River Island Plus', 'isSelected': False
+                },
+                {'count': 1, 'id': '16592', 'name': 'River Island Tall', 'isSelected': False
+                },
+                {'count': 3, 'id': '16256', 'name': 'Saint Genies', 'isSelected': False
+                },
+                {'count': 3, 'id': '15742', 'name': 'Signature 8', 'isSelected': 
+    False
+                },
+                {'count': 1, 'id': '15586', 'name': 'Simply Be', 'isSelected': False
+                },
+                {'count': 1, 'id': '2955', 'name': 'Spanx', 'isSelected': False
+                },
+                {'count': 38, 'id': '15629', 'name': 'Stradivarius', 'isSelected': False
+                },
+                {'count': 1, 'id': '691', 'name': 'Superdry', 'isSelected': False
+                },
+                {'count': 1, 'id': '13942', 'name': 'The Ragged Priest', 'isSelected': False
+                },
+                {'count': 6, 'id': '15631', 'name': 'Tommy Jeans', 'isSelected': False
+                },
+                {'count': 36, 'id': '16305', 'name': 'Topshop', 'isSelected': False
+                },
+                {'count': 2, 'id': '16306', 'name': 'Topshop Maternity', 'isSelected': False
+                },
+                {'count': 8, 'id': '16307', 'name': 'Topshop Petite', 'isSelected': False
+                },
+                {'count': 4, 'id': '16308', 'name': 'Topshop Tall', 'isSelected': False
+                },
+                {'count': 2, 'id': '746', 'name': 'True Religion', 'isSelected': False
+                },
+                {'count': 1, 'id': '15413', 'name': 'Urban Bliss', 'isSelected': False
+                },
+                {'count': 3, 'id': '15610', 'name': 'Urban Bliss Plus', 'isSelected': False
+                },
+                {'count': 3, 'id': '16715', 'name': 'Urban Revivo', 'isSelected': False
+                },
+                {'count': 8, 'id': '3098', 'name': 'Vero Moda', 'isSelected': 
+    False
+                },
+                {'count': 1, 'id': '15812', 'name': 'Vero Moda Curve', 'isSelected': False
+                },
+                {'count': 2, 'id': '14304', 'name': 'Vero Moda Petite', 'isSelected': False
+                },
+                {'count': 2, 'id': '3663', 'name': 'Vila', 'isSelected': False
+                },
+                {'count': 4, 'id': '15734', 'name': "Wednesday's Girl", 'isSelected': False
+                },
+                {'count': 2, 'id': '16164', 'name': "Wednesday's Girl Curve", 'isSelected': False
+                },
+                {'count': 9, 'id': '14287', 'name': 'Weekday', 'isSelected': False
+                },
+                {'count': 1, 'id': '12477', 'name': 'We The Free by Free People', 'isSelected': False
+                }
+            ], 'displayStyle': 'Single-Column', 'facetType': 'TextMultiSelect', 'hasSelectedValues': False
+        },
+        {'id': 'discount_band', 'name': 'Discount %', 'facetValues': [
+                {'count': 45, 'id': '1', 'name': 'Up to 20%', 'isSelected': False
+                },
+                {'count': 46, 'id': '2', 'name': '20% - 30%', 'isSelected': False
+                },
+                {'count': 75, 'id': '3', 'name': '30% - 40%', 'isSelected': False
+                },
+                {'count': 107, 'id': '4', 'name': 
+    '40% - 50%', 'isSelected': False
+                },
+                {'count': 80, 'id': '5', 'name': '50% - 60%', 'isSelected': False
+                },
+                {'count': 46, 'id': '6', 'name': '60% - 70%', 'isSelected': False
+                },
+                {'count': 16, 'id': '7', 'name': '70% or more', 'isSelected': False
+                }
+            ], 'displayStyle': 'Single-Column', 'facetType': 'TextMultiSelect', 'hasSelectedValues': False
+        },
+        {'id': 'currentprice', 'name': 'Price Range', 'facetValues': [
+                {'count': 1, 'id': '8.75', 'name': '8.75', 'isSelected': False
+                },
+                {'count': 1, 'id': '257.75', 'name': '257.75', 'isSelected': False
+                }
+            ], 'displayStyle': 'Price-Slider', 'facetType': 'Range', 'hasSelectedValues': False
+        }
+    ], 'diagnostics': {'requestId': '773e9287-7ee6-40cd-96e0-bdbe447e5782', 'processingTime': 255, 'queryTime': 135, 'recommendationsEnabled': False, 'recommendationsAnalytics': {'personalisationStatus': 5, 'numberOfItems': 0, 'numberOfRecs': 0, 'personalisationType': '', 'items': []
+        }
+    }, 'searchPassMeta': {'isPartial': False, 'isSpellcheck': False, 'searchPass': [
+            {'name': 'EXACT', 'numberOfResults': 669
+            }
+        ], 'alternateSearchTerms': []
+    }, 'queryId': None, 'discoverSearchProductTypes': [], 
+    'campaigns': {'promoBanners': [], 'imageTiles': [], 'sponsoredProducts': []
+    }
+}
